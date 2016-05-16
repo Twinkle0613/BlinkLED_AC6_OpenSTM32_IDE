@@ -1,0 +1,6 @@
+"conf/hardware/stm32f10x_gpio.o"
+"conf/hardware/stm32f10x_rcc.o"
+"conf/syscalls.o"
+"src/Gpio.o"
+"src/main.o"
+"startup/startup_stm32.o"
