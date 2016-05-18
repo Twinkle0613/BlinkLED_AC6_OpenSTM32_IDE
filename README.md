@@ -22,7 +22,8 @@ If you choose the **No firmware** mode, you need to do some of configuraton to m
 Project Properties->C/C++ General->Path and Symbols:
 
 1.Include
-In "No firmware" mode, any library that has involved in your main program you must add the direactory of the library into **Include**.
+
+In "No firmware" mode, any library that has involved in your main program you must add the direactory of the library into **GNU C**in **Include**.
 ![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Includes.png "Includes")
 2.Symbols
 ![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Symbols.png "Symbols")
