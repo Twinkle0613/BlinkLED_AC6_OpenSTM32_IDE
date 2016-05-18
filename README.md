@@ -10,6 +10,7 @@ In this project, I am using the ST-LINK/V2 to debug and program the STM32F103C8T
 Directory: C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility
 
 Target->Option Bytes:
+
 ![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/OptionBytes.png "OptionBytes")
 
 ##Project Firmware configution
