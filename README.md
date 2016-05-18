@@ -20,8 +20,8 @@ If you choose the **No firmware** mode, you need to do some of configuraton to m
 Project Properties->C/C++ General->Path and Symbols:
 
 1.Include
-
+![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Includes.png "Includes")
 2.Symbols
-
+![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Symbols.png "Includes")
 3.Source Location
-
+![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Source%20Location.png "Includes")
