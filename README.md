@@ -17,7 +17,7 @@ Target->Option Bytes:
 
 >In this software, it has also provided the **Project Firmware configution** to make convenience for user easily to select the project structure and firmware such as " **No firmware**", "**Standard Peripheral Library(StdPeriph)**" and "**Hardware Abstraction Layer(Cube HAL)**".  
 
-If you choose the **No firmware** mode, you need to do some of configuraton to make it work.
+In **No firmware** mode, if you need include the external library you need to do some of configuratons to make it work.
 
 Project Properties->C/C++ General->Path and Symbols:
 
