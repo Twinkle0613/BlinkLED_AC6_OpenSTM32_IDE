@@ -23,9 +23,15 @@ Project Properties->C/C++ General->Path and Symbols:
 
 1.Include
 
-In "No firmware" mode, any library that has involved in your main program you must add the direactory of the library into **GNU C**in **Include**.
+In "No firmware" mode, any library that has involved in your main program you must add the direactory of the library into **GNU C** in  **Include**.
 ![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Includes.png "Includes")
 2.Symbols
+
+If you have used **stm32f10x_stdperiph_lib**, you need add the **USE_STDPERIPH_DRIVER** into **Defined Symbols**
 ![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Symbols.png "Symbols")
+
+
 3.Source Location
+
+ Any library that has involved in your main program you must add the direactory of the library in  **Source Location**.
 ![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Source%20Location.png "Source Location")
