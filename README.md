@@ -10,6 +10,7 @@ In this project, I am using the ST-LINK/V2 to debug and program the STM32F103C8T
 Directory: C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility
 
 Target->Option Bytes:
+![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/OptionBytes.png "OptionBytes")
 
 ##Project Firmware configution
 
@@ -22,6 +23,6 @@ Project Properties->C/C++ General->Path and Symbols:
 1.Include
 ![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Includes.png "Includes")
 2.Symbols
-![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Symbols.png "Includes")
+![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Symbols.png "Symbols")
 3.Source Location
-![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Source%20Location.png "Includes")
+![Alt text](https://github.com/Twinkle0613/BlinkLED_AC6_OpenSTM32_IDE/blob/master/Image/Source%20Location.png "Source Location")
